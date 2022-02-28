@@ -12,7 +12,7 @@
 #==============================================================================
 import os
 import shutil
-from settings import *
+from music_settings import *
 
 
 class Song:
